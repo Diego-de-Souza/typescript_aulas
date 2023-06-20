@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "name": "typescript",
+  "description": "Para não ser necessário toda hora ir no terminal e ficar digitando 'tsc  .\\app.ts' para assim transpilar o arquivo '.ts'  gerando um arquivo '.js', é necessário dar um comando na raiz da pasta criando o arquivo 'tsconfig.json', para isso insira o seguinte comando 'tsc --init'.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diego de Souza",
+  "license": "ISC"
+}
